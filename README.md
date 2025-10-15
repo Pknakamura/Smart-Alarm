@@ -1,3 +1,3 @@
-# An alarm that should go off based on your sleep phase.
+#Smart Alarm.
 
-INCOMPLETE
+An alarm that should go off based on your sleep phase. INCOMPLETE.
